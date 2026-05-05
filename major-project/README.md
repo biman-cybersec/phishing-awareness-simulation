@@ -1,1 +1,1 @@
-Major Project Files
+This folder contains Major Project File.
