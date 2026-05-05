@@ -32,7 +32,7 @@ A realistic phishing email designed to create urgency and trick users into click
 
 A static HTML page simulating a login interface for awareness purposes.
 
-📁 `includings/index.html`
+📁 [Fake Login Page](includings/index.html)
 
 ---
 
