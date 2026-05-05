@@ -1,5 +1,14 @@
 # 🔐 Phishing Awareness Simulation Project
 
+## 🔗 Live Demo
+
+🚀 Experience the project in action:
+
+* 🌐 **[Fake Login Page](https://sites.google.com/view/phishingawarenesssimulation)**
+* 📊 **[Phishing Awareness Survey](https://docs.google.com/forms/d/e/1FAIpQLSd_XkIAul-7GfOlf9G3SPvM0iMDwR9hvVqO0OBDo0r7C7Xqsg/viewform?usp=publish-editor)**
+
+---
+
 ## 📌 Overview
 
 This project was developed as part of a Cyber Security Internship to demonstrate how phishing attacks exploit **human psychology** using social engineering techniques.
