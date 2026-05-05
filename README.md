@@ -24,7 +24,7 @@ It simulates a real-world phishing scenario in a **controlled and ethical enviro
 
 A realistic phishing email designed to create urgency and trick users into clicking malicious links.
 
-📁 `includings/Template_Of_Email.pdf`
+📁 [Phishing Email Template](includings/Template_Of_Email.pdf)
 
 ---
 
@@ -46,7 +46,7 @@ Includes:
 * Results and observations
 * Preventive measures
 
-📁 `major-project/Major_Project_Report.pdf`
+📁 [Major Project Report](major-project/Major_Project_Report.pdf)
 
 ---
 
@@ -58,7 +58,7 @@ Focuses on:
 * Broken access control vulnerabilities
 * Role-Based Access Control (RBAC)
 
-📁 `minor-project/Minor_Project_Report.pdf`
+📁 [Minor Project Report](minor-project/Minor_Project_Report.pdf)
 
 ---
 
